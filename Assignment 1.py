@@ -1,11 +1,16 @@
-''' Celsius into Farenheit '''
-c = input("Please Enter Celsius:")
-c = int(c)
-f = (c * 9/5) + 32
-print('Farenheit ',f)
+# Task 1
+num1 = input("Enter 1st number:")
+num2 = input("Enter 2nd number:")
+num1 = int(num1)
+num2 = int(num2)
 
-''' Farenheit into Celsius '''
-f = input("Please Enter Farenheit:")
-f = int(f)
-c = (f - 32) * 5/9
-print('Celcius ',int(c))
+print("Addition ",num1+num2)
+print("Addition ",num1-num2)
+print("Addition ",num1*num2)
+print("Addition ",num1/num2)
+
+# Task 2
+
+F_name = input("First Name: ")
+L_name = input("Last Name: ")
+print("Welcome",F_name+' '+L_name)
