@@ -83,4 +83,8 @@ Problem Statement: Write a Python program that:
 2.   Extracts the first five elements from the list.
 3.   Reverses these extracted elements.
 4.   Prints both the extracted list and the reversed list
+   
+Assignment 6
+
+Problem Statement:Create a calculator using TKINTER
 
